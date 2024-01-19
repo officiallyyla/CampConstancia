@@ -170,11 +170,32 @@
     text-align:left;
  }
  
+ .review{
+   width: 80%;
+   margin: auto;
+   text-align: center;
+   padding-top: 100px;
+}
+
+
+.review-col{
+   flex-basis: 31%;
+   border-radius: 10px;
+   margin-bottom: 5%;
+   text-align: left;
+}
+
+
+.review-col img {
+   width: 100%;
+}
+
+
  
- 
- 
- 
- 
+.li {
+   text-align: left;
+   margin: auto;
+ }
  
  
  /* Contact us page*/
@@ -261,7 +282,14 @@
  }
  
  
+
  li {
     font-size:30px;
+    padding-left: 30px;
  }
+
+ .rates {
+   padding-left: 30px;;
+ }
+ 
  
